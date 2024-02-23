@@ -1,0 +1,40 @@
+.inicio {
+    min-height: 100vh;
+}
+
+.intro {
+    background-blend-mode: luminosity;
+    background-image: url('/img/intro_bg.jpg');
+    background-position: center;
+    background-size: cover;
+    box-shadow: inset 0 0 0 1000px rgba(255, 255, 255, .5);
+}
+
+.logo {
+    height: 42px;
+    width: 42px;
+}
+
+.nav-link, .nav-link {
+    --bs-nav-link-color: #109210;
+}
+
+.nav-link:focus, .nav-link:hover {
+    --bs-nav-link-hover-color: #43be43;
+    text-decoration: underline;
+}
+
+.servicio-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 1rem;
+}
+
+.servicios {
+    --bs-primary: #109210;
+    --bs-primary-rgb: 16, 146, 16;
+}
+
+.yt-video {
+    max-width: 100%;
+}

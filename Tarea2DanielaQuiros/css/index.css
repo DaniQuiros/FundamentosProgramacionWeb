@@ -1,0 +1,21 @@
+.index {
+    background-blend-mode: luminosity;
+    background-image: url('/img/index_bg.jpg');
+    background-position: center;
+    background-size: cover;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, .3);
+    min-height: 100vh;
+}
+
+.titulo2 {
+    font-weight: 700;
+}
+
+.btn-index {
+    --bs-btn-bg: #109210;
+    --bs-btn-border-color: #109210;
+    --bs-btn-hover-bg: #43be43;
+    --bs-btn-hover-border-color: #43be43;
+    --bs-btn-active-bg: #206520;
+    font-weight: 700;
+}
