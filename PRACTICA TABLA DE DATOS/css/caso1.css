@@ -1,0 +1,66 @@
+h1 {
+    background-color:  #008cff;
+    color: #fff;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 25px;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+/*iconos web*/
+
+i {
+    font-size: 20px;
+    color: #fff;
+    margin-right: 10px;
+}
+
+
+/*botones*/
+
+button {
+    border: none;
+    margin-left: 10px;
+    padding: 12px 22px;
+    border-radius: 100px;
+    color: #fff;
+}
+
+#agregarBtn {
+    background-color:  #008cff;
+    color: #fff;
+}
+
+#limpiarBtn {
+    background-color: #008cff;
+    color: #fff;
+}
+
+
+/*tabla*/
+
+th {
+    font-size: 18px;
+    color: #000;
+}
+
+input {
+    font-size: 20px;
+}
+
+input:hover {
+    background-color: #e4e4e4;
+    border: 2px solid #3a7aa5;
+}
+
+label {
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    width: 250px;
+    margin-right: 10px;
+}
