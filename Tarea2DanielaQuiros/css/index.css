@@ -1,6 +1,6 @@
 .index {
     background-blend-mode: luminosity;
-    background-image: url('/img/index_bg.jpg');
+    background-image: url('../img/index_bg.jpg');
     background-position: center;
     background-size: cover;
     box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, .3);
@@ -19,3 +19,4 @@
     --bs-btn-active-bg: #206520;
     font-weight: 700;
 }
+
